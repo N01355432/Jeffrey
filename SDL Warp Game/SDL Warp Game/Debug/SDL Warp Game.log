@@ -1,0 +1,18 @@
+﻿  Char.cpp
+C:\Users\Lev\source\repos\SDL Warp Game\SDL Warp Game\Char.cpp(41,21): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Lev\source\repos\SDL Warp Game\SDL Warp Game\Char.cpp(64,35): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Lev\source\repos\SDL Warp Game\SDL Warp Game\Char.cpp(70,35): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Lev\source\repos\SDL Warp Game\SDL Warp Game\Char.cpp(76,35): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+  Main.cpp
+C:\Users\Lev\source\repos\SDL Warp Game\SDL Warp Game\Char.cpp(82,35): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Lev\source\repos\SDL Warp Game\SDL Warp Game\Main.cpp(25,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Lev\source\repos\SDL Warp Game\SDL Warp Game\Main.cpp(26,18): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Lev\source\repos\SDL Warp Game\SDL Warp Game\Main.cpp(109,2): warning C4551: function call missing argument list
+C:\Users\Lev\source\repos\SDL Warp Game\SDL Warp Game\Main.cpp(110,2): warning C4551: function call missing argument list
+C:\Users\Lev\source\repos\SDL Warp Game\SDL Warp Game\Main.cpp(22,6): warning C4101: 'textureWidth': unreferenced local variable
+C:\Users\Lev\source\repos\SDL Warp Game\SDL Warp Game\Main.cpp(21,18): warning C4101: 'frameHeight': unreferenced local variable
+C:\Users\Lev\source\repos\SDL Warp Game\SDL Warp Game\Main.cpp(21,6): warning C4101: 'frameWidth': unreferenced local variable
+C:\Users\Lev\source\repos\SDL Warp Game\SDL Warp Game\Main.cpp(22,20): warning C4101: 'textureHeight': unreferenced local variable
+  Generating Code...
+C:\Users\Lev\source\repos\SDL Warp Game\SDL Warp Game\Main.cpp(14,11): warning C4101: 'playerRect': unreferenced local variable
+  SDL Warp Game.vcxproj -> C:\Users\Lev\source\repos\SDL Warp Game\Debug\SDL Warp Game.exe
